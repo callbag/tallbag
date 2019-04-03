@@ -14,6 +14,8 @@ Because it seemed unlikely that plain callbags could support delivering metadata
 
 To see an example of what tallbags can achieve, check out this [static renderer of the chain operators](https://github.com/staltz/tallbag-for-each-poc-static-graph). Different and more robust renderers could be created.
 
+**[READ HERE HOW TO USE TALLBAGS](./usage.md)**
+
 ## Summary
 
 * Upon greeting, tallbags accept a 3rd (optional) argument: a shadow callbag
