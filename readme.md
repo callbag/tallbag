@@ -12,6 +12,8 @@ The motivation for Tallbag is to provide a mechanism for creating and delivering
 
 Because it seemed unlikely that plain callbags could support delivering metadata, a new spec was created. However, this has very few differences with Callbag, and is fully compatible with Callbag.
 
+To see an example of what tallbags can achieve, check out this [static renderer of the chain operators](https://github.com/staltz/tallbag-for-each-poc-static-graph). Different and more robust renderers could be created.
+
 ## Summary
 
 * Upon greeting, tallbags accept a 3rd (optional) argument: a shadow callbag
