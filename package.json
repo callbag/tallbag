@@ -1,0 +1,29 @@
+{
+  "name": "tallbag",
+  "version": "1.2.0",
+  "description": "Extension of the Callbag spec to add operator metadata",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/callbag/tallbag.git"
+  },
+  "main": "index.js",
+  "types": "types.d.ts",
+  "author": "PUBLIC",
+  "license": "CC0",
+  "keywords": [
+    "callbag",
+    "tallbag",
+    "callback",
+    "standard",
+    "spec",
+    "observable",
+    "iterable"
+  ],
+  "dependencies": {
+    "callbag": "1.2.0"
+  },
+  "devDependencies": {
+    "ts-node": "^4.1.0",
+    "typescript": "3.2.x"
+  }
+}
